@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-For JHU Data Science
+For JHU Data Science Specialization
